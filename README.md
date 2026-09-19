@@ -1,11 +1,12 @@
 # JustWorkIt
 A Workout Tracker Application made in Android Studio.
+> **Status Notice:** This project is discontinued and will no longer be actively updated or maintained.
 --- 
-As someone who works out on a daily basis, keeping track of what I did everyday in my mind is hard. I have to keep track of the Weight, Reps and the workout I did. Therefore, I created an app that can help users track what they did.
+Working out on a daily basis makes it difficult to keep track of every detail in your head. Remembering weights, repetitions, and specific exercises can be overwhelming. Therefore, this app was created to help users track their fitness routines and monitor their progress.
 
 ## Features
 * **Track Progress** Add workouts including the number of Weight, Reps, and Workout name.
-* **See History** A History page that allows you to see what you did yesterday or the days before it.
+* **See History** View past workout logs through a dedicated history page to check previous sessions.
 * **CRUD Functions** Create, Read, Update, and Delete workout logs.
 
 ## Project Structure
@@ -27,3 +28,4 @@ To run this project locally on your machine:
 3. **Build and Run:**
    * Let Gradle sync dependencies.
    * Connect an Android device or start an emulator and click the **Run** (green play) button.
+  
